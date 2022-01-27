@@ -7,6 +7,8 @@
 </p>
 <br>
 
+<!--
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=haikelz&theme=react&hide=css,html&layout=compact'/>
 </div>
+-->
