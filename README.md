@@ -5,7 +5,6 @@
   <a href="https://haikelz.me">💬 Notes</a> | 
   <a href="https://twitter.com/ginkgo_byte">👋 Twitter</a>
 </p>
-<br>
 
 <!--
 <div align="center">
