@@ -1,5 +1,1 @@
-<h1 align="center">Hello, there!</h1>
-
-- Saya Haikel, berasal dari **Bangka Belitung**
-- Senang dengan dunia Front End Web dan Linux
-- Motivasi: ***Asak kawa ge pacak***
+<p align="center"><a href="https://haikel.my.id target="_blank">Portfolio</a> | <a href="https://haikelz.me" target="_blank">Blog</a></p>
