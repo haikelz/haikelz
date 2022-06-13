@@ -1,1 +1,8 @@
-<p align="center"><a href="https://haikel.my.id" target="_blank">Portfolio</a> | <a href="https://haikelz.me" target="_blank">Blog</a></p>
+```json
+{
+  "id": 77146709
+  "name": "Haikel" 
+  "portfolio": "https://haikel.pages.dev"
+  "blog": "https://haikelz.me"
+}
+```
