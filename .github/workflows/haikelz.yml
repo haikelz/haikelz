@@ -1,36 +1,38 @@
 name: Auto commit
+
 on: 
   push: 
     branches: 
       - main
-    schedule: 
-      - cron: "0 2,5,11 * * 6,7"
       
-  jobs: 
-    haikelz:
-      runs-on: ubuntu-latest
-      steps: 
-        - uses: actions/checkout@v3
-          with:
-            persist-credentials: false
-            fetch-depth: 0
+  schedule: 
+  - cron: "0 2,5,11 * * 5,6"
+      
+jobs: 
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
             
-        - name: Modify last update
-          run: |
-            d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-            echo $d > LAST_UPDATED
+      - name: Modify last update
+        run: |
+           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+           echo $d > LAST_UPDATED
             
-        - name: Commit changes
-          run: | 
-            git config --local user.email "haikel.2017th@gmail.com"
-            git config --local user.email "haikelz"
-            git add -A
-            git commit -m "chore: commit"
+      - name: Commit changes
+        run: | 
+          git config --local user.email "haikel.2017th@gmail.com"
+          git config --local user.email "haikelz"
+          git add -A
+          git commit -m "chore: commit"
             
-        - name: Push
-          uses: ad-m/github-push-action@v0.5.0
-          with: 
-            force: true
-            directory: '.'
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Github Push
+        uses: ad-m/github-push-action@v0.5.0
+        with: 
+          force: true
+          directory: '.'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           
