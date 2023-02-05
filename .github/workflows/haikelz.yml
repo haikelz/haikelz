@@ -25,12 +25,12 @@ jobs:
       - name: Commit changes
         run: | 
           git config --local user.email "haikel.2017th@gmail.com"
-          git config --local user.email "haikelz"
+          git config --local user.name "haikelz"
           git add -A
           git commit -m "chore: commit"
             
       - name: Github Push
-        uses: ad-m/github-push-action@v0.5.0
+        uses: ad-m/github-push-action@v0.6.0
         with: 
           force: true
           directory: '.'
