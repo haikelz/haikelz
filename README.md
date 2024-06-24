@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>こんにちは !</h1>
+  <p>I write code, mostly for Frontend side. Sometimes, I took some photos with my camera.</p>
   <samp>
     <a href="https://ekel.dev" target="blank" rel="noopener noreferrer">website</a> -  
     <a href="mailto:halo@ekel.dev" target="blank" rel="noopener noreferrer">email</a> - 
