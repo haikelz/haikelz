@@ -1,3 +1,5 @@
+![Codewars Badge](https://www.codewars.com/users/haikelz/badges/micro)
+
 Hello! I'm Haikel. You can call me **Haikel/Kel/Ekel** with the **"E"** pronounce is "**Emas"**. 
 
 I'm a Developer based in Indonesia, also an amateur photographer in my free time. **<i>Keep it simple</i>**, is one of my principles while crafting something. 
