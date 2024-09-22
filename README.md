@@ -1,10 +1,5 @@
-<div align="center">
-  <p>I write code, mostly for Frontend side. Sometimes, I took some photos with my camera.</p>
-  <samp>
-    <a href="https://ekel.dev" target="blank" rel="noopener noreferrer">website</a> -  
-    <a href="mailto:halo@ekel.dev" target="blank" rel="noopener noreferrer">email</a> - 
-    <a href="https://instagram.com/ekel.tsx" rel="noopener noreferrer">instagram</a> -
-    <a href="https://facebook.com/kelgfx" rel="noopener noreferrer">facebook</a> - 
-    <a href="https://www.linkedin.com/in/haikel/" rel="noopener noreferrer">linkedin</a>
-  </samp>
-</div>
+Hello! I'm Haikel. You can call me **Haikel/Kel/Ekel** with the **"E"** pronounce is "**Emas"**. 
+
+I'm a Developer based in Indonesia, also an amateur photographer in my free time. **<i>Keep it simple</i>**, is one of my principles while crafting something. 
+
+Find me on [Github](https://github.com/haikelz), [Linkedin](https://www.linkedin.com/in/haikel/), and [Instagram](https://www.instagram.com/ekel.tsx/).
