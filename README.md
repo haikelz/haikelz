@@ -1,4 +1,6 @@
-<img src="katou-megumi.gif" width="300px" height="300px" alt="katou megumi gif" />
+<p align="center">
+  <img src="katou-megumi.gif" alt="katou megumi gif" />
+</p>
 
 #opentowork for Fulltime position. See my latest works and experiences at https://ekel.dev
 
